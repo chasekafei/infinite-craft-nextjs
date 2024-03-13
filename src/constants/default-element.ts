@@ -1,21 +1,21 @@
 export const defaultElement = [
   {
-    text: "ไฟ",
+    text: "火",
     emoji: "🔥",
     discovered: false,
   },
   {
-    text: "น้ำ",
+    text: "水",
     emoji: "💧",
     discovered: false,
   },
   {
-    text: "ลม",
+    text: "风",
     emoji: "💨",
     discovered: false,
   },
   {
-    text: "ดิน",
+    text: "土",
     emoji: "🌍",
     discovered: false,
   },
